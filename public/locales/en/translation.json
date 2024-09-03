@@ -1,0 +1,7 @@
+{
+  "welcome": "Welcome to react using react-i18next",
+  "locale": "العربية",
+  "temp_min": "Minimum Temp",
+  "temp_max": "Maximum Temp",
+  "clear sky": "clear sky"
+}
