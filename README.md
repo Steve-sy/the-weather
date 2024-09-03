@@ -1,3 +1,6 @@
+# The weather widget using reactjs & material UI in Arabic / English
+you can visit the website on: https://the-weather-ramx.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
